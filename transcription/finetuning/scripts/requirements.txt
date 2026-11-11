@@ -1,0 +1,11 @@
+transformers>=5.13
+datasets>=3.0
+peft>=0.13
+accelerate
+jiwer
+soundfile
+scipy
+ctranslate2
+faster-whisper
+tiktoken
+sentencepiece
