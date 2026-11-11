@@ -1,0 +1,5 @@
+model,backend,n_samples,wer,cer,seconds_per_clip
+small,faster-whisper,200,0.847,0.434,2.70
+medium,faster-whisper,200,0.756,0.408,4.57
+large-v3-turbo,faster-whisper,200,0.713,0.385,2.02
+ychafiqui/whisper-small-darija,transformers,200,0.331,0.149,1.87

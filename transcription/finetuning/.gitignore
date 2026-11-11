@@ -1,0 +1,10 @@
+# Modèles, checkpoints et archives : trop lourds pour Git, à garder sur Kaggle ou Hugging Face
+outputs/
+checkpoint-*/
+final/
+ct2/
+*.safetensors
+*.bin
+*.pt
+*.zip
+__pycache__/

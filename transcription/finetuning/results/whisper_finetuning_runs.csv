@@ -1,0 +1,3 @@
+run,base_model,augmentation,batch_effectif,steps_prevus,steps_faits,meilleure_etape,eval_wer,eval_cer,statut
+whisper-small-v1,openai/whisper-small,non,16,3000,3000,2000,0.3916,0.173,"terminé ; surapprentissage dès l'étape 1000 ; modèle perdu (session redémarrée)"
+whisper-medium-aug-essai1,openai/whisper-medium,"bruit ESC-50, SpecAugment, dropout 0.1",16,2000,750,750,0.3688,0.1722,"interrompu à l'étape 750 : disque plein ; modèle non sauvegardé"
