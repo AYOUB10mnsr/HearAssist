@@ -1,0 +1,83 @@
+{
+  "sample_rate": 16000,
+  "model_url": "https://storage.googleapis.com/mediapipe-models/audio_classifier/yamnet/float32/1/yamnet.tflite",
+  "model_sha256": "4d8b4a53282dc83ef04e3e7dbc4fbc98082e34e44ed798e16c3a0cdd4c584faf",
+  "hop_seconds": 0.48,
+  "window_seconds": 0.975,
+  "chunk_seconds": 0.1,
+  "threads": 2,
+  "thresholds": {
+    "dog": 0.73828125,
+    "crying_baby": 0.08203125,
+    "door_wood_knock": 0.26171875,
+    "siren": 0.4140625,
+    "car_horn": 0.03125,
+    "clock_alarm": 0.109375,
+    "glass_breaking": 0.03125,
+    "engine": 0.03125
+  },
+  "off_ratio": 0.7,
+  "release_windows": 2,
+  "calibration_beta": 2.0,
+  "clip_aggregation": "max_over_windows",
+  "targets": {
+    "dog": {
+      "fr": "Aboiement",
+      "labels": [
+        "Dog",
+        "Bark"
+      ]
+    },
+    "crying_baby": {
+      "fr": "Pleurs de bébé",
+      "labels": [
+        "Baby cry, infant cry"
+      ]
+    },
+    "door_wood_knock": {
+      "fr": "Coups à la porte",
+      "labels": [
+        "Knock"
+      ]
+    },
+    "siren": {
+      "fr": "Sirène",
+      "labels": [
+        "Siren",
+        "Police car (siren)",
+        "Ambulance (siren)",
+        "Fire engine, fire truck (siren)",
+        "Civil defense siren"
+      ]
+    },
+    "car_horn": {
+      "fr": "Klaxon",
+      "labels": [
+        "Vehicle horn, car horn, honking"
+      ]
+    },
+    "clock_alarm": {
+      "fr": "Réveil",
+      "labels": [
+        "Alarm clock"
+      ]
+    },
+    "glass_breaking": {
+      "fr": "Bris de verre",
+      "labels": [
+        "Shatter"
+      ]
+    },
+    "engine": {
+      "fr": "Moteur",
+      "labels": [
+        "Engine",
+        "Light engine (high frequency)",
+        "Medium engine (mid frequency)",
+        "Heavy engine (low frequency)",
+        "Engine starting",
+        "Engine knocking"
+      ]
+    }
+  }
+}

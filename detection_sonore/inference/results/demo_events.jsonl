@@ -1,0 +1,6 @@
+{"event_id": 1, "category": "door_wood_knock", "label": "Coups à la porte", "start": 5.76, "end": 6.735, "first_available_at": 6.8, "max_score": 0.95703125, "type": "sound_start", "emitted_at": 6.8}
+{"event_id": 1, "category": "door_wood_knock", "label": "Coups à la porte", "start": 5.76, "end": 7.215, "first_available_at": 6.8, "max_score": 0.96875, "type": "sound_end", "emitted_at": 8.2}
+{"event_id": 2, "category": "dog", "label": "Aboiement", "start": 12.0, "end": 12.975, "first_available_at": 13.0, "max_score": 0.73828125, "type": "sound_start", "emitted_at": 13.0}
+{"event_id": 2, "category": "dog", "label": "Aboiement", "start": 12.0, "end": 13.455, "first_available_at": 13.0, "max_score": 0.73828125, "type": "sound_end", "emitted_at": 14.5}
+{"event_id": 3, "category": "siren", "label": "Sirène", "start": 17.76, "end": 18.735, "first_available_at": 18.8, "max_score": 0.984375, "type": "sound_start", "emitted_at": 18.8}
+{"event_id": 3, "category": "siren", "label": "Sirène", "start": 17.76, "end": 23.535, "first_available_at": 18.8, "max_score": 0.99609375, "type": "sound_end", "emitted_at": 24.5}

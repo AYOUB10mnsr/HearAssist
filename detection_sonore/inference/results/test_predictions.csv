@@ -1,0 +1,289 @@
+filename,fold,target,category,esc10,src_file,take,partition,is_target,score_dog,score_crying_baby,score_door_wood_knock,score_siren,score_car_horn,score_clock_alarm,score_glass_breaking,score_engine,detected_categories
+3-145577-A-43.wav,3,43,car_horn,False,145577,A,test,True,0.0,0.0,0.0,0.0,0.66796875,0.0,0.0,0.0,car_horn
+3-146697-A-43.wav,3,43,car_horn,False,146697,A,test,True,0.01171875,0.0,0.0,0.01171875,0.08203125,0.0,0.0,0.015625,car_horn
+3-153057-A-43.wav,3,43,car_horn,False,153057,A,test,True,0.0,0.0,0.0,0.01953125,0.66796875,0.0,0.0,0.0,car_horn
+3-155130-A-43.wav,3,43,car_horn,False,155130,A,test,True,0.015625,0.0,0.0,0.0078125,0.73828125,0.0,0.0,0.0078125,car_horn
+3-155234-A-43.wav,3,43,car_horn,False,155234,A,test,True,0.00390625,0.0,0.0,0.5,0.26171875,0.0,0.0,0.0,"siren, car_horn"
+3-161010-A-43.wav,3,43,car_horn,False,161010,A,test,True,0.00390625,0.0,0.0,0.015625,0.1484375,0.0,0.0,0.01953125,car_horn
+3-174840-A-43.wav,3,43,car_horn,False,174840,A,test,True,0.0,0.0,0.0,0.0,0.98046875,0.0,0.0,0.0,car_horn
+3-243726-A-43.wav,3,43,car_horn,False,243726,A,test,True,0.0,0.0,0.0,0.00390625,0.1484375,0.0,0.0,0.00390625,car_horn
+4-175845-A-43.wav,4,43,car_horn,False,175845,A,test,True,0.0,0.0,0.0,0.03125,0.73828125,0.0,0.0,0.01953125,car_horn
+4-175846-A-43.wav,4,43,car_horn,False,175846,A,test,True,0.00390625,0.0,0.0,0.00390625,0.5,0.0,0.0,0.00390625,car_horn
+4-175855-A-43.wav,4,43,car_horn,False,175855,A,test,True,0.00390625,0.0,0.01171875,0.0078125,0.890625,0.0,0.0078125,0.01171875,car_horn
+4-175856-A-43.wav,4,43,car_horn,False,175856,A,test,True,0.00390625,0.0,0.0078125,0.01171875,0.95703125,0.0,0.00390625,0.01953125,car_horn
+4-176631-A-43.wav,4,43,car_horn,False,176631,A,test,True,0.0,0.0,0.0,0.66796875,0.33203125,0.0,0.0,0.04296875,"siren, car_horn, engine"
+4-176638-A-43.wav,4,43,car_horn,False,176638,A,test,True,0.0078125,0.0,0.0,0.01171875,0.94140625,0.0,0.0,0.03125,"car_horn, engine"
+4-178402-A-43.wav,4,43,car_horn,False,178402,A,test,True,0.00390625,0.0,0.00390625,0.0,0.8515625,0.0,0.0,0.0,car_horn
+4-191015-A-43.wav,4,43,car_horn,False,191015,A,test,True,0.0078125,0.0,0.0,0.0078125,0.05859375,0.0,0.0,0.015625,car_horn
+5-179860-A-43.wav,5,43,car_horn,False,179860,A,test,True,0.0078125,0.0,0.00390625,0.0078125,0.19921875,0.0,0.00390625,0.015625,car_horn
+5-179863-A-43.wav,5,43,car_horn,False,179863,A,test,True,0.0078125,0.0,0.0,0.00390625,0.26171875,0.0,0.0,0.00390625,car_horn
+5-179865-A-43.wav,5,43,car_horn,False,179865,A,test,True,0.00390625,0.0,0.00390625,0.1484375,0.66796875,0.0,0.00390625,0.00390625,car_horn
+5-179866-A-43.wav,5,43,car_horn,False,179866,A,test,True,0.00390625,0.0,0.0,0.01953125,0.890625,0.0,0.0,0.00390625,car_horn
+5-179868-A-43.wav,5,43,car_horn,False,179868,A,test,True,0.0,0.0,0.0,0.5859375,0.4140625,0.0,0.0,0.03125,"siren, car_horn, engine"
+5-180156-A-43.wav,5,43,car_horn,False,180156,A,test,True,0.0,0.0,0.0,0.1484375,0.1484375,0.0,0.0,0.03125,"car_horn, engine"
+5-180156-B-43.wav,5,43,car_horn,False,180156,B,test,True,0.0,0.0,0.0,0.01953125,0.1484375,0.0,0.0,0.00390625,car_horn
+5-180156-C-43.wav,5,43,car_horn,False,180156,C,test,True,0.0,0.0,0.0,0.33203125,0.26171875,0.0,0.0,0.01171875,car_horn
+3-130330-A-22.wav,3,22,clapping,False,130330,A,test,False,0.00390625,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+3-138114-A-22.wav,3,22,clapping,False,138114,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-149465-A-22.wav,3,22,clapping,False,149465,A,test,False,0.0078125,0.0,0.01171875,0.0,0.0,0.0,0.00390625,0.0,Aucune cible
+3-177082-A-22.wav,3,22,clapping,False,177082,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-177083-A-22.wav,3,22,clapping,False,177083,A,test,False,0.01171875,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+3-181278-A-22.wav,3,22,clapping,False,181278,A,test,False,0.0078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-197435-A-22.wav,3,22,clapping,False,197435,A,test,False,0.0,0.0,0.01953125,0.0,0.05859375,0.0,0.0,0.01171875,car_horn
+3-197435-B-22.wav,3,22,clapping,False,197435,B,test,False,0.0,0.0,0.01171875,0.0,0.08203125,0.0,0.0,0.015625,car_horn
+4-189828-A-22.wav,4,22,clapping,False,189828,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189830-A-22.wav,4,22,clapping,False,189830,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189832-A-22.wav,4,22,clapping,False,189832,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189832-B-22.wav,4,22,clapping,False,189832,B,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189833-A-22.wav,4,22,clapping,False,189833,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189836-A-22.wav,4,22,clapping,False,189836,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-189838-A-22.wav,4,22,clapping,False,189838,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-205738-A-22.wav,4,22,clapping,False,205738,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-209989-A-22.wav,5,22,clapping,False,209989,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-218494-A-22.wav,5,22,clapping,False,218494,A,test,False,0.01953125,0.0,0.05859375,0.00390625,0.00390625,0.0,0.00390625,0.00390625,Aucune cible
+5-221567-A-22.wav,5,22,clapping,False,221567,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+5-221568-A-22.wav,5,22,clapping,False,221568,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-221950-A-22.wav,5,22,clapping,False,221950,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-249937-A-22.wav,5,22,clapping,False,249937,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-254160-A-22.wav,5,22,clapping,False,254160,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-262957-A-22.wav,5,22,clapping,False,262957,A,test,False,0.0,0.0,0.0,0.0,0.00390625,0.0,0.0,0.01953125,Aucune cible
+3-117793-A-37.wav,3,37,clock_alarm,False,117793,A,test,True,0.00390625,0.0,0.0078125,0.0078125,0.00390625,0.109375,0.00390625,0.0,clock_alarm
+3-117883-A-37.wav,3,37,clock_alarm,False,117883,A,test,True,0.0,0.0,0.0,0.01171875,0.0,0.95703125,0.0,0.0,clock_alarm
+3-120526-A-37.wav,3,37,clock_alarm,False,120526,A,test,True,0.0,0.0,0.0,0.00390625,0.0,0.95703125,0.0,0.0,clock_alarm
+3-120526-B-37.wav,3,37,clock_alarm,False,120526,B,test,True,0.0,0.0,0.0,0.00390625,0.00390625,0.890625,0.0,0.0,clock_alarm
+3-131943-A-37.wav,3,37,clock_alarm,False,131943,A,test,True,0.0,0.0,0.0,0.0,0.0,0.91796875,0.0,0.00390625,clock_alarm
+3-132340-A-37.wav,3,37,clock_alarm,False,132340,A,test,True,0.0,0.0,0.0,0.00390625,0.03125,0.80078125,0.0,0.0,"car_horn, clock_alarm"
+3-139958-A-37.wav,3,37,clock_alarm,False,139958,A,test,True,0.00390625,0.0,0.0,0.00390625,0.00390625,0.19921875,0.0,0.04296875,"clock_alarm, engine"
+3-148297-A-37.wav,3,37,clock_alarm,False,148297,A,test,True,0.00390625,0.0,0.01953125,0.0078125,0.00390625,0.04296875,0.00390625,0.0,Aucune cible
+4-151242-A-37.wav,4,37,clock_alarm,False,151242,A,test,True,0.0,0.0,0.0,0.00390625,0.00390625,0.80078125,0.0,0.0,clock_alarm
+4-169508-A-37.wav,4,37,clock_alarm,False,169508,A,test,True,0.0,0.0,0.0,0.0,0.0,0.890625,0.0,0.0,clock_alarm
+4-172366-A-37.wav,4,37,clock_alarm,False,172366,A,test,True,0.0,0.0,0.0,0.0,0.0,0.99609375,0.0,0.0,clock_alarm
+4-189332-A-37.wav,4,37,clock_alarm,False,189332,A,test,True,0.0,0.0,0.0,0.0,0.0,0.4140625,0.0,0.0,clock_alarm
+4-198841-A-37.wav,4,37,clock_alarm,False,198841,A,test,True,0.00390625,0.0,0.00390625,0.00390625,0.00390625,0.91796875,0.0,0.00390625,clock_alarm
+4-204684-A-37.wav,4,37,clock_alarm,False,204684,A,test,True,0.0,0.0,0.0,0.0,0.00390625,0.96875,0.0,0.0,clock_alarm
+4-209536-A-37.wav,4,37,clock_alarm,False,209536,A,test,True,0.00390625,0.0,0.0,0.00390625,0.0,0.1484375,0.08203125,0.00390625,"clock_alarm, glass_breaking"
+4-209698-A-37.wav,4,37,clock_alarm,False,209698,A,test,True,0.0,0.0,0.0,0.0,0.0,0.19921875,0.05859375,0.0,"clock_alarm, glass_breaking"
+5-210612-A-37.wav,5,37,clock_alarm,False,210612,A,test,True,0.0,0.0,0.0,0.00390625,0.01171875,0.66796875,0.0,0.0,clock_alarm
+5-211408-A-37.wav,5,37,clock_alarm,False,211408,A,test,True,0.00390625,0.0,0.0,0.015625,0.00390625,0.91796875,0.0,0.08203125,"clock_alarm, engine"
+5-219242-A-37.wav,5,37,clock_alarm,False,219242,A,test,True,0.0,0.0,0.0,0.0,0.0,0.80078125,0.0,0.0,clock_alarm
+5-219242-B-37.wav,5,37,clock_alarm,False,219242,B,test,True,0.0,0.0,0.0,0.0,0.0,0.19921875,0.0,0.0,clock_alarm
+5-223176-A-37.wav,5,37,clock_alarm,False,223176,A,test,True,0.0,0.0,0.0,0.04296875,0.05859375,0.66796875,0.0,0.0,"car_horn, clock_alarm"
+5-233645-A-37.wav,5,37,clock_alarm,False,233645,A,test,True,0.0,0.0,0.0,0.0078125,0.00390625,0.96875,0.00390625,0.0,clock_alarm
+5-234247-A-37.wav,5,37,clock_alarm,False,234247,A,test,True,0.0,0.0,0.0,0.0078125,0.0,0.98828125,0.0,0.0,clock_alarm
+5-250629-A-37.wav,5,37,clock_alarm,False,250629,A,test,True,0.0,0.0,0.00390625,0.00390625,0.0,0.984375,0.0078125,0.0,clock_alarm
+3-151080-A-20.wav,3,20,crying_baby,True,151080,A,test,True,0.01953125,0.95703125,0.0,0.00390625,0.0,0.00390625,0.0,0.0,crying_baby
+3-151081-A-20.wav,3,20,crying_baby,True,151081,A,test,True,0.01953125,0.91796875,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+3-151081-B-20.wav,3,20,crying_baby,True,151081,B,test,True,0.04296875,0.91796875,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+3-152007-A-20.wav,3,20,crying_baby,True,152007,A,test,True,0.04296875,0.890625,0.0,0.109375,0.0078125,0.00390625,0.0,0.0,crying_baby
+3-152007-B-20.wav,3,20,crying_baby,True,152007,B,test,True,0.00390625,0.94140625,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+3-152007-C-20.wav,3,20,crying_baby,True,152007,C,test,True,0.1484375,0.890625,0.0,0.0078125,0.00390625,0.0,0.0,0.0,crying_baby
+3-152007-D-20.wav,3,20,crying_baby,True,152007,D,test,True,0.08203125,0.91796875,0.0,0.00390625,0.0,0.0,0.0,0.0,crying_baby
+3-152007-E-20.wav,3,20,crying_baby,True,152007,E,test,True,0.0,0.91796875,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+4-167077-A-20.wav,4,20,crying_baby,True,167077,A,test,True,0.4140625,0.94140625,0.0,0.0,0.0078125,0.0,0.0,0.00390625,crying_baby
+4-167077-B-20.wav,4,20,crying_baby,True,167077,B,test,True,0.00390625,0.94140625,0.0,0.00390625,0.0,0.0,0.0,0.0,crying_baby
+4-167077-C-20.wav,4,20,crying_baby,True,167077,C,test,True,0.0078125,0.91796875,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+4-185575-A-20.wav,4,20,crying_baby,True,185575,A,test,True,0.05859375,0.80078125,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+4-185575-B-20.wav,4,20,crying_baby,True,185575,B,test,True,0.73828125,0.66796875,0.0,0.0,0.0,0.0,0.0,0.0,"dog, crying_baby"
+4-185575-C-20.wav,4,20,crying_baby,True,185575,C,test,True,0.33203125,0.5,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+4-59579-A-20.wav,4,20,crying_baby,True,59579,A,test,True,0.08203125,0.8515625,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+4-59579-B-20.wav,4,20,crying_baby,True,59579,B,test,True,0.0,0.73828125,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+5-151085-A-20.wav,5,20,crying_baby,True,151085,A,test,True,0.04296875,0.94140625,0.0,0.00390625,0.0,0.0,0.0,0.0,crying_baby
+5-198411-A-20.wav,5,20,crying_baby,True,198411,A,test,True,0.01953125,0.66796875,0.00390625,0.00390625,0.0,0.0,0.0,0.0,crying_baby
+5-198411-B-20.wav,5,20,crying_baby,True,198411,B,test,True,0.05859375,0.109375,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+5-198411-C-20.wav,5,20,crying_baby,True,198411,C,test,True,0.4140625,0.73828125,0.0,0.04296875,0.0,0.00390625,0.0,0.01953125,crying_baby
+5-198411-D-20.wav,5,20,crying_baby,True,198411,D,test,True,0.04296875,0.73828125,0.0,0.00390625,0.0,0.0,0.0,0.00390625,crying_baby
+5-198411-E-20.wav,5,20,crying_baby,True,198411,E,test,True,0.00390625,0.66796875,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+5-198411-F-20.wav,5,20,crying_baby,True,198411,F,test,True,0.03125,0.5,0.0,0.01171875,0.0,0.0,0.0,0.00390625,crying_baby
+5-198411-G-20.wav,5,20,crying_baby,True,198411,G,test,True,0.015625,0.5859375,0.0,0.0,0.0,0.0,0.0,0.0,crying_baby
+3-136288-A-0.wav,3,0,dog,True,136288,A,test,True,0.73828125,0.00390625,0.0,0.04296875,0.00390625,0.0,0.0,0.00390625,dog
+3-144028-A-0.wav,3,0,dog,True,144028,A,test,True,0.96875,0.0,0.0,0.01953125,0.00390625,0.0,0.0,0.0,dog
+3-155312-A-0.wav,3,0,dog,True,155312,A,test,True,0.99609375,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0,dog
+3-157695-A-0.wav,3,0,dog,True,157695,A,test,True,0.80078125,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0,dog
+3-163459-A-0.wav,3,0,dog,True,163459,A,test,True,0.91796875,0.0,0.00390625,0.0,0.00390625,0.0,0.00390625,0.0,dog
+3-170015-A-0.wav,3,0,dog,True,170015,A,test,True,0.94140625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+3-180256-A-0.wav,3,0,dog,True,180256,A,test,True,0.95703125,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0,dog
+3-180977-A-0.wav,3,0,dog,True,180977,A,test,True,0.98828125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+4-182395-A-0.wav,4,0,dog,True,182395,A,test,True,0.890625,0.0,0.0078125,0.0,0.0,0.0,0.00390625,0.0,dog
+4-183992-A-0.wav,4,0,dog,True,183992,A,test,True,0.96875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+4-184575-A-0.wav,4,0,dog,True,184575,A,test,True,0.91796875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+4-191687-A-0.wav,4,0,dog,True,191687,A,test,True,0.96875,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0,dog
+4-192236-A-0.wav,4,0,dog,True,192236,A,test,True,0.984375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+4-194754-A-0.wav,4,0,dog,True,194754,A,test,True,0.890625,0.0,0.0,0.0,0.01171875,0.0,0.0,0.0,dog
+4-199261-A-0.wav,4,0,dog,True,199261,A,test,True,0.8515625,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,dog
+4-207124-A-0.wav,4,0,dog,True,207124,A,test,True,0.98046875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+5-203128-A-0.wav,5,0,dog,True,203128,A,test,True,0.98046875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+5-203128-B-0.wav,5,0,dog,True,203128,B,test,True,0.94140625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+5-208030-A-0.wav,5,0,dog,True,208030,A,test,True,0.99609375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+5-212454-A-0.wav,5,0,dog,True,212454,A,test,True,0.96875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+5-213855-A-0.wav,5,0,dog,True,213855,A,test,True,0.80078125,0.0,0.0,0.0078125,0.0,0.0,0.0,0.0,dog
+5-217158-A-0.wav,5,0,dog,True,217158,A,test,True,0.8515625,0.0,0.0,0.00390625,0.015625,0.0,0.0,0.0078125,dog
+5-231762-A-0.wav,5,0,dog,True,231762,A,test,True,0.91796875,0.0,0.00390625,0.0,0.0,0.0,0.00390625,0.0,dog
+5-9032-A-0.wav,5,0,dog,True,9032,A,test,True,0.890625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dog
+3-144510-A-30.wav,3,30,door_wood_knock,False,144510,A,test,True,0.0,0.0,0.95703125,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+3-151089-A-30.wav,3,30,door_wood_knock,False,151089,A,test,True,0.00390625,0.0,0.26171875,0.0,0.00390625,0.0,0.0,0.0,door_wood_knock
+3-152594-A-30.wav,3,30,door_wood_knock,False,152594,A,test,True,0.00390625,0.0,0.26171875,0.0,0.0,0.0,0.01953125,0.0,door_wood_knock
+3-154378-A-30.wav,3,30,door_wood_knock,False,154378,A,test,True,0.0,0.0,0.26171875,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+3-170574-A-30.wav,3,30,door_wood_knock,False,170574,A,test,True,0.0,0.0,0.96875,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+3-180147-A-30.wav,3,30,door_wood_knock,False,180147,A,test,True,0.00390625,0.0,0.96875,0.0,0.0,0.0,0.0,0.00390625,door_wood_knock
+3-182023-A-30.wav,3,30,door_wood_knock,False,182023,A,test,True,0.0,0.0,0.4140625,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+3-182025-A-30.wav,3,30,door_wood_knock,False,182025,A,test,True,0.00390625,0.0,0.890625,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-182034-A-30.wav,4,30,door_wood_knock,False,182034,A,test,True,0.00390625,0.0,0.73828125,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-182039-A-30.wav,4,30,door_wood_knock,False,182039,A,test,True,0.0,0.0,0.96875,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-182041-A-30.wav,4,30,door_wood_knock,False,182041,A,test,True,0.0,0.0,0.8515625,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-186518-A-30.wav,4,30,door_wood_knock,False,186518,A,test,True,0.01171875,0.0,0.91796875,0.0,0.0078125,0.0,0.0,0.0,door_wood_knock
+4-187284-A-30.wav,4,30,door_wood_knock,False,187284,A,test,True,0.015625,0.0,0.890625,0.00390625,0.015625,0.0,0.01171875,0.00390625,door_wood_knock
+4-188878-A-30.wav,4,30,door_wood_knock,False,188878,A,test,True,0.015625,0.0,0.33203125,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-211502-A-30.wav,4,30,door_wood_knock,False,211502,A,test,True,0.0,0.0,0.01171875,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-261068-A-30.wav,4,30,door_wood_knock,False,261068,A,test,True,0.0,0.0,0.4140625,0.0,0.0,0.0,0.00390625,0.00390625,door_wood_knock
+5-218980-A-30.wav,5,30,door_wood_knock,False,218980,A,test,True,0.01171875,0.0,0.4140625,0.0,0.00390625,0.0,0.0,0.0,door_wood_knock
+5-218981-A-30.wav,5,30,door_wood_knock,False,218981,A,test,True,0.0,0.0,0.19921875,0.0,0.0,0.0,0.08203125,0.0078125,glass_breaking
+5-235644-A-30.wav,5,30,door_wood_knock,False,235644,A,test,True,0.00390625,0.0,0.890625,0.0,0.00390625,0.0,0.00390625,0.00390625,door_wood_knock
+5-250026-A-30.wav,5,30,door_wood_knock,False,250026,A,test,True,0.0,0.0,0.9921875,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+5-250026-B-30.wav,5,30,door_wood_knock,False,250026,B,test,True,0.01171875,0.0,0.99609375,0.0,0.0,0.0,0.015625,0.01171875,door_wood_knock
+5-251426-A-30.wav,5,30,door_wood_knock,False,251426,A,test,True,0.0,0.0,0.99609375,0.0,0.00390625,0.0,0.0,0.0,door_wood_knock
+5-251426-B-30.wav,5,30,door_wood_knock,False,251426,B,test,True,0.0078125,0.0,0.9921875,0.0,0.00390625,0.0,0.0,0.0,door_wood_knock
+5-256512-A-30.wav,5,30,door_wood_knock,False,256512,A,test,True,0.0078125,0.0,0.96875,0.0,0.00390625,0.0,0.0,0.0,door_wood_knock
+3-115382-A-44.wav,3,44,engine,False,115382,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26171875,engine
+3-119455-A-44.wav,3,44,engine,False,119455,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1484375,engine
+3-128160-A-44.wav,3,44,engine,False,128160,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.66796875,engine
+3-141240-A-44.wav,3,44,engine,False,141240,A,test,True,0.0,0.0,0.0,0.0,0.00390625,0.0,0.0,0.5,engine
+3-141240-B-44.wav,3,44,engine,False,141240,B,test,True,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.33203125,engine
+3-146186-A-44.wav,3,44,engine,False,146186,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5859375,engine
+3-154758-A-44.wav,3,44,engine,False,154758,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.66796875,engine
+3-259622-A-44.wav,3,44,engine,False,259622,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.95703125,engine
+4-171652-A-44.wav,4,44,engine,False,171652,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.94140625,engine
+4-186935-A-44.wav,4,44,engine,False,186935,A,test,True,0.00390625,0.0,0.0,0.01171875,0.00390625,0.0,0.0,0.5,engine
+4-186936-A-44.wav,4,44,engine,False,186936,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.73828125,engine
+4-186938-A-44.wav,4,44,engine,False,186938,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33203125,engine
+4-186940-A-44.wav,4,44,engine,False,186940,A,test,True,0.0,0.0,0.0,0.08203125,0.00390625,0.0,0.0,0.19921875,engine
+4-186962-A-44.wav,4,44,engine,False,186962,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4140625,engine
+4-195451-A-44.wav,4,44,engine,False,195451,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8515625,engine
+4-201988-A-44.wav,4,44,engine,False,201988,A,test,True,0.00390625,0.0,0.01171875,0.0,0.0,0.0,0.00390625,0.19921875,engine
+5-209992-A-44.wav,5,44,engine,False,209992,A,test,True,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,0.33203125,engine
+5-209992-B-44.wav,5,44,engine,False,209992,B,test,True,0.0,0.0,0.0,0.0,0.00390625,0.0,0.0,0.109375,engine
+5-232272-A-44.wav,5,44,engine,False,232272,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,engine
+5-235507-A-44.wav,5,44,engine,False,235507,A,test,True,0.0,0.0,0.0,0.04296875,0.0,0.0,0.0,0.73828125,engine
+5-240671-A-44.wav,5,44,engine,False,240671,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.26171875,engine
+5-243773-A-44.wav,5,44,engine,False,243773,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,engine
+5-243773-B-44.wav,5,44,engine,False,243773,B,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33203125,engine
+5-243783-A-44.wav,5,44,engine,False,243783,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4140625,engine
+3-103597-A-25.wav,3,25,footsteps,False,103597,A,test,False,0.015625,0.0,0.01171875,0.0,0.0078125,0.0,0.01953125,0.00390625,Aucune cible
+3-103598-A-25.wav,3,25,footsteps,False,103598,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-103599-A-25.wav,3,25,footsteps,False,103599,A,test,False,0.01953125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-103599-B-25.wav,3,25,footsteps,False,103599,B,test,False,0.03125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-249913-A-25.wav,3,25,footsteps,False,249913,A,test,False,0.015625,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+3-94342-A-25.wav,3,25,footsteps,False,94342,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-94343-A-25.wav,3,25,footsteps,False,94343,A,test,False,0.01171875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-94344-A-25.wav,3,25,footsteps,False,94344,A,test,False,0.015625,0.0,0.00390625,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-117627-A-25.wav,4,25,footsteps,False,117627,A,test,False,0.00390625,0.0,0.01953125,0.0,0.0,0.0,0.00390625,0.00390625,Aucune cible
+4-117630-A-25.wav,4,25,footsteps,False,117630,A,test,False,0.00390625,0.0,0.00390625,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-194979-A-25.wav,4,25,footsteps,False,194979,A,test,False,0.0078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-194981-A-25.wav,4,25,footsteps,False,194981,A,test,False,0.04296875,0.0,0.00390625,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+4-198962-A-25.wav,4,25,footsteps,False,198962,A,test,False,0.01171875,0.0,0.80078125,0.0,0.0,0.0,0.0,0.0,door_wood_knock
+4-198962-B-25.wav,4,25,footsteps,False,198962,B,test,False,0.00390625,0.0,0.66796875,0.0,0.0,0.0,0.00390625,0.00390625,door_wood_knock
+4-218304-A-25.wav,4,25,footsteps,False,218304,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-218304-B-25.wav,4,25,footsteps,False,218304,B,test,False,0.0,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+5-234263-A-25.wav,5,25,footsteps,False,234263,A,test,False,0.00390625,0.0,0.5,0.0,0.0,0.0,0.01953125,0.0,door_wood_knock
+5-234855-A-25.wav,5,25,footsteps,False,234855,A,test,False,0.01171875,0.0,0.03125,0.0,0.00390625,0.0,0.0,0.0,Aucune cible
+5-243025-A-25.wav,5,25,footsteps,False,243025,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-244310-A-25.wav,5,25,footsteps,False,244310,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.00390625,0.0,Aucune cible
+5-263490-A-25.wav,5,25,footsteps,False,263490,A,test,False,0.01171875,0.0,0.00390625,0.0,0.01171875,0.0,0.0,0.0078125,Aucune cible
+5-263491-A-25.wav,5,25,footsteps,False,263491,A,test,False,0.015625,0.0,0.03125,0.0,0.0078125,0.0,0.0,0.00390625,Aucune cible
+5-263501-A-25.wav,5,25,footsteps,False,263501,A,test,False,0.01171875,0.0,0.00390625,0.0,0.00390625,0.0,0.0,0.00390625,Aucune cible
+5-51149-A-25.wav,5,25,footsteps,False,51149,A,test,False,0.00390625,0.0,0.19921875,0.0,0.0,0.0,0.04296875,0.01953125,glass_breaking
+3-203371-A-39.wav,3,39,glass_breaking,False,203371,A,test,True,0.01953125,0.0,0.03125,0.01171875,0.01171875,0.0,0.33203125,0.19921875,"glass_breaking, engine"
+3-203373-A-39.wav,3,39,glass_breaking,False,203373,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.66796875,0.00390625,glass_breaking
+3-203374-A-39.wav,3,39,glass_breaking,False,203374,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.66796875,0.0,glass_breaking
+3-203375-A-39.wav,3,39,glass_breaking,False,203375,A,test,True,0.00390625,0.0,0.01171875,0.0,0.0,0.0,0.80078125,0.00390625,glass_breaking
+3-203377-A-39.wav,3,39,glass_breaking,False,203377,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.80078125,0.0,glass_breaking
+3-216280-A-39.wav,3,39,glass_breaking,False,216280,A,test,True,0.00390625,0.0,0.0,0.0,0.0,0.0,0.80078125,0.0078125,glass_breaking
+3-216281-A-39.wav,3,39,glass_breaking,False,216281,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.66796875,0.0,glass_breaking
+3-216284-A-39.wav,3,39,glass_breaking,False,216284,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.73828125,0.0,glass_breaking
+4-204115-A-39.wav,4,39,glass_breaking,False,204115,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.04296875,0.00390625,glass_breaking
+4-204119-A-39.wav,4,39,glass_breaking,False,204119,A,test,True,0.00390625,0.0,0.00390625,0.0,0.0,0.0,0.5,0.0078125,glass_breaking
+4-204121-A-39.wav,4,39,glass_breaking,False,204121,A,test,True,0.0078125,0.0,0.0,0.0,0.00390625,0.0,0.19921875,0.01171875,glass_breaking
+4-204123-A-39.wav,4,39,glass_breaking,False,204123,A,test,True,0.00390625,0.0,0.0,0.0,0.0,0.0,0.01953125,0.0078125,Aucune cible
+4-204777-A-39.wav,4,39,glass_breaking,False,204777,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.94140625,0.0,glass_breaking
+4-204777-B-39.wav,4,39,glass_breaking,False,204777,B,test,True,0.015625,0.0,0.0,0.0,0.0,0.0,0.94140625,0.0078125,glass_breaking
+4-204777-C-39.wav,4,39,glass_breaking,False,204777,C,test,True,0.00390625,0.0,0.0,0.0,0.0,0.0,0.94140625,0.03125,"glass_breaking, engine"
+4-212698-A-39.wav,4,39,glass_breaking,False,212698,A,test,True,0.00390625,0.0,0.01171875,0.0,0.015625,0.0,0.00390625,0.0,Aucune cible
+5-221528-A-39.wav,5,39,glass_breaking,False,221528,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.5859375,0.0,glass_breaking
+5-221529-A-39.wav,5,39,glass_breaking,False,221529,A,test,True,0.015625,0.0,0.01171875,0.0,0.0,0.0,0.015625,0.015625,Aucune cible
+5-233605-A-39.wav,5,39,glass_breaking,False,233605,A,test,True,0.00390625,0.0,0.00390625,0.0,0.0,0.0,0.26171875,0.0,glass_breaking
+5-233607-A-39.wav,5,39,glass_breaking,False,233607,A,test,True,0.015625,0.0,0.0078125,0.0,0.0,0.00390625,0.00390625,0.00390625,Aucune cible
+5-257642-A-39.wav,5,39,glass_breaking,False,257642,A,test,True,0.01171875,0.0,0.00390625,0.0,0.0,0.0,0.91796875,0.0078125,glass_breaking
+5-260432-A-39.wav,5,39,glass_breaking,False,260432,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.5859375,0.0,glass_breaking
+5-260433-A-39.wav,5,39,glass_breaking,False,260433,A,test,True,0.0,0.0,0.0,0.0,0.0,0.109375,0.19921875,0.0,"clock_alarm, glass_breaking"
+5-260434-A-39.wav,5,39,glass_breaking,False,260434,A,test,True,0.0,0.0,0.0,0.0,0.0,0.0,0.73828125,0.0,glass_breaking
+3-125548-A-32.wav,3,32,keyboard_typing,False,125548,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+3-132830-A-32.wav,3,32,keyboard_typing,False,132830,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-144106-A-32.wav,3,32,keyboard_typing,False,144106,A,test,False,0.00390625,0.0,0.0,0.0,0.0,0.0,0.0,0.03125,engine
+3-144120-A-32.wav,3,32,keyboard_typing,False,144120,A,test,False,0.01171875,0.0,0.0,0.00390625,0.0078125,0.0,0.0,0.01171875,Aucune cible
+3-153444-A-32.wav,3,32,keyboard_typing,False,153444,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-154781-A-32.wav,3,32,keyboard_typing,False,154781,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+3-155568-A-32.wav,3,32,keyboard_typing,False,155568,A,test,False,0.0,0.0,0.0078125,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+3-155570-A-32.wav,3,32,keyboard_typing,False,155570,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-158653-A-32.wav,4,32,keyboard_typing,False,158653,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0078125,Aucune cible
+4-167155-A-32.wav,4,32,keyboard_typing,False,167155,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+4-172180-A-32.wav,4,32,keyboard_typing,False,172180,A,test,False,0.0078125,0.0,0.00390625,0.0,0.00390625,0.0,0.0,0.01171875,Aucune cible
+4-172742-A-32.wav,4,32,keyboard_typing,False,172742,A,test,False,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-177243-A-32.wav,4,32,keyboard_typing,False,177243,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-181707-A-32.wav,4,32,keyboard_typing,False,181707,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+4-181708-A-32.wav,4,32,keyboard_typing,False,181708,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015625,Aucune cible
+4-185613-A-32.wav,4,32,keyboard_typing,False,185613,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03125,engine
+5-205090-A-32.wav,5,32,keyboard_typing,False,205090,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01171875,Aucune cible
+5-215005-A-32.wav,5,32,keyboard_typing,False,215005,A,test,False,0.0078125,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+5-216131-A-32.wav,5,32,keyboard_typing,False,216131,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0078125,Aucune cible
+5-222894-A-32.wav,5,32,keyboard_typing,False,222894,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01953125,Aucune cible
+5-223099-A-32.wav,5,32,keyboard_typing,False,223099,A,test,False,0.0078125,0.0,0.03125,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+5-223099-B-32.wav,5,32,keyboard_typing,False,223099,B,test,False,0.00390625,0.0,0.04296875,0.0,0.0,0.01171875,0.0,0.00390625,Aucune cible
+5-234923-A-32.wav,5,32,keyboard_typing,False,234923,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-244178-A-32.wav,5,32,keyboard_typing,False,244178,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-132852-A-10.wav,3,10,rain,True,132852,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015625,Aucune cible
+3-140774-A-10.wav,3,10,rain,True,140774,A,test,False,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,0.01953125,Aucune cible
+3-142005-A-10.wav,3,10,rain,True,142005,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-142006-A-10.wav,3,10,rain,True,142006,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+3-143929-A-10.wav,3,10,rain,True,143929,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015625,Aucune cible
+3-157149-A-10.wav,3,10,rain,True,157149,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0078125,Aucune cible
+3-157487-A-10.wav,3,10,rain,True,157487,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03125,engine
+3-157615-A-10.wav,3,10,rain,True,157615,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+4-160999-A-10.wav,4,10,rain,True,160999,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33203125,engine
+4-161127-A-10.wav,4,10,rain,True,161127,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015625,Aucune cible
+4-163264-A-10.wav,4,10,rain,True,163264,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0078125,Aucune cible
+4-164206-A-10.wav,4,10,rain,True,164206,A,test,False,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,0.0078125,Aucune cible
+4-166661-A-10.wav,4,10,rain,True,166661,A,test,False,0.0,0.0,0.0,0.0,0.00390625,0.0,0.0,0.01953125,Aucune cible
+4-177250-A-10.wav,4,10,rain,True,177250,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03125,engine
+4-180380-A-10.wav,4,10,rain,True,180380,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+4-181286-A-10.wav,4,10,rain,True,181286,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-181766-A-10.wav,5,10,rain,True,181766,A,test,False,0.0,0.0,0.0,0.00390625,0.0,0.0,0.0,0.04296875,engine
+5-188655-A-10.wav,5,10,rain,True,188655,A,test,False,0.0078125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-193339-A-10.wav,5,10,rain,True,193339,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-194892-A-10.wav,5,10,rain,True,194892,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03125,engine
+5-195710-A-10.wav,5,10,rain,True,195710,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.00390625,Aucune cible
+5-198321-A-10.wav,5,10,rain,True,198321,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0078125,Aucune cible
+5-202898-A-10.wav,5,10,rain,True,202898,A,test,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aucune cible
+5-203739-A-10.wav,5,10,rain,True,203739,A,test,False,0.015625,0.0,0.01171875,0.0,0.0,0.0,0.01171875,0.01953125,Aucune cible
+3-51376-A-42.wav,3,42,siren,False,51376,A,test,True,0.0,0.0,0.0,0.99609375,0.00390625,0.0,0.0,0.0,siren
+3-51731-A-42.wav,3,42,siren,False,51731,A,test,True,0.0,0.0,0.0,0.8515625,0.0078125,0.0,0.0,0.0,siren
+3-51731-B-42.wav,3,42,siren,False,51731,B,test,True,0.0,0.0,0.0,0.890625,0.03125,0.0,0.0,0.015625,"siren, car_horn"
+3-51909-A-42.wav,3,42,siren,False,51909,A,test,True,0.0078125,0.0,0.0,0.94140625,0.33203125,0.0,0.0,0.0,"siren, car_horn"
+3-51909-B-42.wav,3,42,siren,False,51909,B,test,True,0.0,0.0,0.0,0.99609375,0.04296875,0.0,0.0,0.0,"siren, car_horn"
+3-58772-A-42.wav,3,42,siren,False,58772,A,test,True,0.0,0.0,0.0,0.99609375,0.0,0.0,0.0,0.0,siren
+3-62878-A-42.wav,3,42,siren,False,62878,A,test,True,0.0078125,0.0,0.0,0.99609375,0.0,0.0,0.0,0.0,siren
+3-62878-B-42.wav,3,42,siren,False,62878,B,test,True,0.0,0.0,0.0,0.91796875,0.0,0.0,0.0,0.0,siren
+4-102871-A-42.wav,4,42,siren,False,102871,A,test,True,0.0,0.0,0.0,0.73828125,0.08203125,0.0,0.0,0.01171875,"siren, car_horn"
+4-111671-A-42.wav,4,42,siren,False,111671,A,test,True,0.0078125,0.0,0.0,0.91796875,0.0,0.0,0.0,0.0,siren
+4-111671-B-42.wav,4,42,siren,False,111671,B,test,True,0.00390625,0.0,0.0,0.66796875,0.00390625,0.0,0.0,0.0,siren
+4-121532-A-42.wav,4,42,siren,False,121532,A,test,True,0.0,0.0,0.0,0.99609375,0.01171875,0.0,0.0,0.0,siren
+4-67358-A-42.wav,4,42,siren,False,67358,A,test,True,0.00390625,0.0,0.0,0.73828125,0.03125,0.04296875,0.0,0.0078125,"siren, car_horn"
+4-80761-A-42.wav,4,42,siren,False,80761,A,test,True,0.0,0.0,0.0,0.99609375,0.109375,0.0,0.0,0.0,"siren, car_horn"
+4-90014-A-42.wav,4,42,siren,False,90014,A,test,True,0.0,0.0,0.0,0.66796875,0.015625,0.0,0.0,0.0,siren
+4-90014-B-42.wav,4,42,siren,False,90014,B,test,True,0.0,0.0,0.0,0.4140625,0.33203125,0.0,0.0,0.015625,"siren, car_horn"
+5-117118-A-42.wav,5,42,siren,False,117118,A,test,True,0.00390625,0.0,0.0,0.99609375,0.01953125,0.0,0.0,0.0,siren
+5-117120-A-42.wav,5,42,siren,False,117120,A,test,True,0.0,0.0,0.0,0.99609375,0.19921875,0.01953125,0.0,0.0,"siren, car_horn"
+5-117122-A-42.wav,5,42,siren,False,117122,A,test,True,0.0,0.0,0.0,0.99609375,0.0,0.0,0.0,0.0,siren
+5-133989-A-42.wav,5,42,siren,False,133989,A,test,True,0.0,0.0,0.0,0.99609375,0.05859375,0.0,0.0,0.01953125,"siren, car_horn"
+5-133989-B-42.wav,5,42,siren,False,133989,B,test,True,0.00390625,0.0,0.0,0.98828125,0.1484375,0.0,0.0,0.00390625,"siren, car_horn"
+5-150409-A-42.wav,5,42,siren,False,150409,A,test,True,0.00390625,0.0,0.0,0.4140625,0.109375,0.0,0.0,0.03125,"siren, car_horn, engine"
+5-160551-A-42.wav,5,42,siren,False,160551,A,test,True,0.0,0.0,0.0,0.80078125,0.0,0.0,0.0,0.00390625,siren
+5-184323-A-42.wav,5,42,siren,False,184323,A,test,True,0.03125,0.0,0.0,0.91796875,0.01171875,0.0,0.0,0.0,siren
