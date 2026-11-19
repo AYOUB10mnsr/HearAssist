@@ -1,0 +1,5 @@
+Modèle,Dataset,Clips,WER %,CER %,Sorties avec lettres latines %,Mots fréquents retrouvés %,RTF
+Qwen3-ASR-1.7B,DODa (parole lue),200,73.5,27.3,0.5,39.3,0.083
+Qwen3-ASR-0.6B,DODa (parole lue),200,79.61,32.56,0.5,30.7,0.069
+Qwen3-ASR-1.7B,adiren7 (spontanée),200,76.44,35.68,15.0,48.3,0.06
+Qwen3-ASR-0.6B,adiren7 (spontanée),200,82.56,39.65,13.5,39.8,0.067
