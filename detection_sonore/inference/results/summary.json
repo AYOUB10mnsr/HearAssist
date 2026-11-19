@@ -1,0 +1,15 @@
+{
+  "n_test": 288,
+  "n_target_test": 192,
+  "n_background_test": 96,
+  "macro_precision": 0.8419925213675215,
+  "macro_recall": 0.9635416666666667,
+  "macro_f1": 0.8902873649459784,
+  "target_files_detected": 185,
+  "background_files_with_alert": 13,
+  "background_false_alert_fraction": 0.13541666666666666,
+  "accuracy_8_classes": 0.953125,
+  "macro_f1_8_classes": 0.9528162436464678,
+  "mean_compute_ms_per_window": 6.915902552777502,
+  "p95_compute_ms_per_window": 15.823849950010043
+}
